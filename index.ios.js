@@ -55,6 +55,7 @@ Navigation.registerComponent('react-native-navigation-bootstrap', () => react_na
 Navigation.startSingleScreenApp({
   screen: {
     screen: 'react-native-navigation-bootstrap',
-    title: 'Navigation Bootstrap'
+    title: 'Navigation'
+    
   }
 });

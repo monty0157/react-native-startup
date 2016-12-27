@@ -1,4 +1,3 @@
-# react-native-navigation-bootstrap
-##Bootstrap for a vanilla react-native-navigation based project
+# react-native-startup
 
-Clone this repository to start a project based on react-native-navigation version 2.0.0-experimental.116
+Simple template to start a react-native project fast.
